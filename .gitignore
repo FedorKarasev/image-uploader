@@ -1,0 +1,4 @@
+firebase_setup.js
+/.cache/
+/dist/
+/node_modules/
